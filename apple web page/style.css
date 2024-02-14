@@ -1,0 +1,54 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: rgb(24, 24, 24);
+   
+}
+.coll{
+    background-color:  rgb(24, 24, 24);
+   text-align: center;
+    }
+.coll a{
+    color: white;
+   text-align: center;
+
+}
+.coll-2 img{
+    width: 100%;
+    height: 100%;
+}
+.coll-3 img{
+    width: 100%;
+    height: 100%;
+}
+.coll-4 img{
+    width: 100%;
+    height: 100%;
+}
+footer{
+   background-color: rgb(211, 211, 233);
+   padding-top: 5%;
+}
+footer p{
+    font-size: 80%;
+   padding-left: 20%;
+   padding-right: 20%;
+
+}
+footer h6{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.coll-5 p{
+    padding-top: 0%;
+}
+.pic{
+    flex-direction: column;
+}
+.box{
+    padding-left: 20%;
+    padding-right: 20%;
+}
